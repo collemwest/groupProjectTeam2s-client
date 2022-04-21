@@ -46,7 +46,7 @@ export const MoviesOfTheMonth = () => {
               return (
                 <ColStyled key={id}>
                   <NowShowingStackHome>
-                    <MoviesMonthImg src={`${state.BASE_URL}${image}`} />
+                    <Link to={`/moviePage/${id}`}><MoviesMonthImg src={`${state.BASE_URL}${image}`} /></Link>
                     <p>{genre.replace(/^\w/, (c) => c?.toUpperCase())}</p>
                     <h2>
                       <Link to={`/reservation/${id}`}>{title}</Link>
