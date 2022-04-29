@@ -2,7 +2,7 @@
 
 Clone the project (client side) from [GitHub](https://github.com/collemwest/groupProjectTeam2s-client).\
 Start with `npm install`.
-Then run `npm start`.\
+Then run `npm start`.
 And prepare to be amazed by the awesomeness of the project.
 
 ## Modules and Packages
