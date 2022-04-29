@@ -1,6 +1,6 @@
 # Getting Started with Retro Cinema
 
-Clone the project (client side) from [GitHub](https://github.com/thTs0ustas/groupProjectTeam2s-client.git).\
+Clone the project (client side) from [GitHub](https://github.com/collemwest/groupProjectTeam2s-client).\
 Start with `npm install`.
 Then run `npm start`.\
 And prepare to be amazed by the awesomeness of the project.
